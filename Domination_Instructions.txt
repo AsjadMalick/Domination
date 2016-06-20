@@ -1,0 +1,74 @@
+
+DOMINATION GUIDE v 1.0
+******************************************************
+HOW TO PLAY
+******************************************************
+
+Note, if both players enter the same name, or both players leave the entry
+blank, the names will default to Stratus and Cirrus
+
+***OBJECTIVES***
+The game ends when the enemy's Capital is dominated or both players reach their
+50th turn. In the latter case, the winner is decided by taking the product of 
+the total amount of land and multiplying it by the the total number of 
+resources. The nation with the largets product wins.
+
+***MECHANICS***
+Each nation/Structure has 4 resources available:
+
+- Coins (represented by the stack of coins)
+- Attack (represented by the red Sword)
+- Defense (represented by the blue shield)
+- Technology (represented by the green flask)
+
+
+A nation gains resorces every turn. They are used to buy structures that help 
+the nation in dominating the other.
+
+The more resources a structure has invested in it, the harder it is to dominate.
+
+You are allowed to make as many moves as you want before you hit end turn.
+
+***Structures***
+
+Land (P):
+- The most Basic structure
+- Costs coins to buy, can be converted to other structures except Capital.
+
+Captial (C):
+- The essential sturcture, loss of this means loss of the game.
+- No initial cost, and can only have defense invested into it.
+
+Market (M):
+- Economic power House, costs coins and defense intiially.
+- For each turn a nation has a market, the nations total coins and technoloy
+  increase. If there are multiple markets that have remained in one nations
+  control for longer, the effect will increase.
+
+Lab (L):
+- Facility of research and innovation, costs coins, defense and technology.
+- For each turn a nation has a lab, the nation's total attack and defense will 
+  increase. Any structures other than land will have their structural defense
+  increase by the same percentage. if there are multiple Labs that have 
+  remained in one nations control for longer, the effect will increase.
+
+Fort (F):
+- Mode of attacking, costs coins, attack, defense and technology.
+- In order to play offensively there must be at least one fort belonging to the 
+  attacking nation. The forts attack, coins and technology are used to determine
+  its strength.
+- If there are multiple forts, the closest one to the target will be used.
+
+***OFFENSIVE PLAY***
+- The attacking fort's attack, tech and coins are used to calculate its strength
+  and the defending structure's resources are used to determine its resistance.
+- The calculation yields a % chance to invade, a number higher than 100, means
+  it is certain that the structure will be dominated, and a negative value 
+  means it is impossible to dominate.
+- If you are able to dominate, the structure becomes yours, and any resources
+  invested into the structure stay there.
+- If the domination fails, the attacking fort loses all its resources, becomes a
+  plot of land, and half the forts resources go to the defending nation. Also 
+  the attacking nation's move ends. 
+
+ Now that you know how things work, can you Dominate your Enemy?
